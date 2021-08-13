@@ -1,0 +1,19 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "Trabalho 01 Autoração Multimidia II 2021.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsgun/first_app.git"
+  },
+  "author": "Gustavo Mendes M. de Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmsgun/first_app/issues"
+  },
+  "homepage": "https://github.com/mmsgun/first_app#readme"
+}
